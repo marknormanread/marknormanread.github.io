@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Mark N. Read"
   avatar : "/assets/images/MarkRead_small.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "We conduct research at the interface of Computer Science and Biomedicine at the University of Sydney. Algorithms, simulations, machine learning, gut microbial ecology, immunology and healthcare. Research is endless exciting possibilities."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Lecturer in Biomedical Computation at the University of Sydney, in the School of Computer Science. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My speciality is understanding biological systems through computational, mathematical and statistical approaches. This is ever more relevant as high-throughput and imaging technologies transform Biology into a more data-centric field. My focus is primarily on immunological systems, and the microbial communities that inhabit the gut.
+
+I was awarded my PhD in 2012 by the University of York, UK, for work advancing the investigation of biological systems through simulation and statistics. I had a brief foray into swarm robotics whilst at York. I moved to the University of Sydney's Charles Perkins Centre in 2013 as an independent researcher, and joined the Centre for Food Enginomics in 2018 before my appointment as Lecturer in 2019.
+
+## Wisdom
+
+“An expert is a man who has made all the mistakes which can be made.” – Niels Bohr
+
+“If we knew what it was we were doing, it wouldn’t be called ‘research’, would it?” – Albert Einstein
+
+“Now, like all my great plans, my strategy is so simple an idiot could have devised it.” – Zapp Brannigan
