@@ -65,7 +65,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mark N. Read"
+  name   : "Dr. Mark N. Read"
   avatar : "/assets/images/MarkRead_small.JPG"
   bio    : "We conduct research at the interface of Computer Science and Biomedicine at the University of Sydney. Algorithms, simulations, machine learning, gut microbial ecology, immunology and healthcare. Research is endless exciting possibilities."
   links:

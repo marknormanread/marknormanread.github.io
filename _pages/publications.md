@@ -6,31 +6,43 @@ title: "Publications"
 
 ## 2019
 
-_CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_
-.(2019).
+_CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_.
+(2019).
 [Models of the Gut for Analyzing the Impact of Food and Drugs.](https://marknormanread.github.io/pubs/Fois_et_al-2019-Advanced_Healthcare_Materials.pdf)
 **Advanced Healthcare Materials** 8(21):1900968.
 [[URL at journal]](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201900968).
 
 _GH Putri, MN Read, I Koprinska, TM Ashhurst and NJC King._
-.(2019).
+(2019).
 Dimensionality reduction for clustering and cluster tracking of cytometry data.
 **International Conference on Artificial Neural Networks** pp 624-640.
 [[URL at conference proceedings]](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50)
 
-_GH Putri, MN Read, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King_
-.(2019).
+_GH Putri, MN Read, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King._
+(2019).
 ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data.
 **Knowledge-Based Systems** 174:9-26.
 [URL to paper at the journal](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796)
 
 ## 2018
 
-Engineering Simulations as Scientific Instruments: A Pattern Language. Susan Stepney, Fiona A. C. Polack, Kieran Alden, Paul S. Andrews, James L. Bown, Alastair Droop, Mark Read, Adam T. Sampson, Jon Timmis, Alan F. T. Winfield. Springer International Publishing. [URL to book at publisher]
+_S Stepney, FAC Polack, K Alden, PS Andrews, JL Bown, A Droop, **MN Read**, AT Sampson, J Timmis, AFT Winfield._
+(2018).
+Engineering Simulations as Scientific Instruments: A Pattern Language. 
+**Springer International Publishing.** 
+[[URL to book at publisher]](https://www.springer.com/gp/book/9783030019372)
 
-Strategies for Calibrating Models of Biology. Mark N. Read, Kieran Alden, Jon Timmis and Paul S. Andrews. Accepted at Briefings in Bioinformatics.
+_MN Read, K Alden, J Timmis and PS Andrews._
+(2018).
+Strategies for Calibrating Models of Biology. 
+**Briefings in Bioinformatics** bby092.
+[[URL to paper at journal]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bby092/5099477)
 
-Memory B Cells Are Reactivated in Subcapsular Proliferative Foci of Lymph Nodes. Imogen Moran, Akira Nguyen, Weng Khoo, Danyal Butt, Katherine Bourne, Clara Young, Jana Hermes, Maté Biro, Gary Gracie, Cindy Ma, Cynthia Munier, Fabio Luciani, John Zaunders, Andrew Parker, Anthony Kelleher, Stuart Tangye, Peter Croucher, Robert Brink, Mark N. Read, and Tri Phan. Nature Communications 9:3372. [URL to paper at journal]
+_I Moran, A Nguyen, W Khoo, D Butt, K Bourne, C Young, J Hermes, M Biro, G Gracie, C Ma, C Munier, F Luciani, J Zaunders, A Parker, A Kelleher, S Tangye, P Croucher, R Brink, **MN Read**, T Phan._
+(2018).
+Memory B Cells Are Reactivated in Subcapsular Proliferative Foci of Lymph Nodes. 
+**Nature Communications** 9:3372. 
+[[URL to paper at journal]](https://www.nature.com/articles/s41467-018-05772-7)
 
 ## 2017
 
