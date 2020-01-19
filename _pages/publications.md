@@ -6,15 +6,23 @@ title: "Publications"
 
 ## 2019
 
-_Chiara Anna Maria Fois, Thi Yen Loan Le, Aaron Schindeler, Sina Naficy, Dale David McClure, **Mark Norman Read**, Peter Valtchev, Ali Khademhosseini, Fariba Dehghani._
-(2019).
+_CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_
+.(2019).
 [Models of the Gut for Analyzing the Impact of Food and Drugs.](https://marknormanread.github.io/pubs/Fois_et_al-2019-Advanced_Healthcare_Materials.pdf)
-Advanced Healthcare Materials 8(21):1900968.
+**Advanced Healthcare Materials** 8(21):1900968.
 [[URL at journal]](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201900968).
 
-Dimensionality reduction for clustering and cluster tracking of cytometry data. Givanna H. Putri, Mark N. Read, Irena Koprinska, Thomas M. Ashhurst and Nicholas J. C. King. Accepted to the International Conference on Artificial Neural Networks.
+_GH Putri, MN Read, I Koprinska, TM Ashhurst and NJC King._
+.(2019).
+Dimensionality reduction for clustering and cluster tracking of cytometry data.
+**International Conference on Artificial Neural Networks** pp 624-640.
+[[URL at conference proceedings]](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50)
 
-ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data. Givanna H. Putri, Mark N. Read, Irena Koprinska, Deeksha Singh, Uwe Rohm, Thomas M. Ashhurst, Nick J.C. King. Knowledge-Based Systems 174:9-26.  [URL to paper at the journal]
+_GH Putri, MN Read, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King_
+.(2019).
+ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data.
+**Knowledge-Based Systems** 174:9-26.
+[URL to paper at the journal](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796)
 
 ## 2018
 
