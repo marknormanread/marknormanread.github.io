@@ -12,13 +12,13 @@ _CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, 
 **Advanced Healthcare Materials** 8(21):1900968.
 [[URL at journal]](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201900968).
 
-_GH Putri, MN Read, I Koprinska, TM Ashhurst and NJC King._
+_GH Putri, **MN Read**, I Koprinska, TM Ashhurst and NJC King._
 (2019).
 Dimensionality reduction for clustering and cluster tracking of cytometry data.
 **International Conference on Artificial Neural Networks** pp 624-640.
 [[URL at conference proceedings]](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50)
 
-_GH Putri, MN Read, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King._
+_GH Putri, **MN Read**, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King._
 (2019).
 ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data.
 **Knowledge-Based Systems** 174:9-26.
@@ -28,43 +28,73 @@ ChronoClust: Density-based clustering and cluster tracking in high-dimensional t
 
 _S Stepney, FAC Polack, K Alden, PS Andrews, JL Bown, A Droop, **MN Read**, AT Sampson, J Timmis, AFT Winfield._
 (2018).
-Engineering Simulations as Scientific Instruments: A Pattern Language. 
-**Springer International Publishing.** 
+Engineering Simulations as Scientific Instruments: A Pattern Language.
+**Springer International Publishing.**
 [[URL to book at publisher]](https://www.springer.com/gp/book/9783030019372)
 
-_MN Read, K Alden, J Timmis and PS Andrews._
+_**MN Read, K Alden**, J Timmis and PS Andrews._
 (2018).
-Strategies for Calibrating Models of Biology. 
+Strategies for Calibrating Models of Biology.
 **Briefings in Bioinformatics** bby092.
 [[URL to paper at journal]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bby092/5099477)
 
 _I Moran, A Nguyen, W Khoo, D Butt, K Bourne, C Young, J Hermes, M Biro, G Gracie, C Ma, C Munier, F Luciani, J Zaunders, A Parker, A Kelleher, S Tangye, P Croucher, R Brink, **MN Read**, T Phan._
 (2018).
-Memory B Cells Are Reactivated in Subcapsular Proliferative Foci of Lymph Nodes. 
-**Nature Communications** 9:3372. 
+Memory B Cells Are Reactivated in Subcapsular Proliferative Foci of Lymph Nodes.
+**Nature Communications** 9:3372.
 [[URL to paper at journal]](https://www.nature.com/articles/s41467-018-05772-7)
 
 ## 2017
 
-Towards an integrative understanding of diet-host-gut microbiome interactions. Mark N. Read, Andrew Holmes. Frontiers in Immunology 8:538. [URL to paper at journal]
+_**MN Read**, Andrew Holmes._
+(2017).
+Towards an integrative understanding of diet-host-gut microbiome interactions.
+**Frontiers in Immunology** 8:538.
+[[URL to paper at journal]](https://www.frontiersin.org/articles/10.3389/fimmu.2017.00538/full)
 
-Diet-microbiome interactions in health are controlled by intestinal nitrogen source constraints. AJ Holmes, YV Chew, F Colakoglu, JB. Cliff, E Klaassens, MN Read, SM Solon-Biet, AC McMahon, VC Cogger, K Ruohonen, D Raubenheimer, DG Le Couteur, SJ Simpson. Cell Metabolism 25(1):140–151. [URL to paper at journal]
+_AJ Holmes, YV Chew, F Colakoglu, JB. Cliff, E Klaassens, **MN Read**, SM Solon-Biet, AC McMahon, VC Cogger, K Ruohonen, D Raubenheimer, DG Le Couteur, SJ Simpson._
+(2017).
+Diet-microbiome interactions in health are controlled by intestinal nitrogen source constraints.
+**Cell Metabolism** 25(1):140–151.
+[[URL to paper at journal]](https://www.sciencedirect.com/science/article/pii/S1550413116305538?via%3Dihub)
 
 ## 2016
 
-Automated Multi-Objective Calibration of Biological Agent-Based Simulations. Mark N. Read, Kieran Alden, Louis M. Rose, Jon Timmis. Journal of the Royal Society Interface 13(122):20160543. [URL to paper at journal]
+_MN Read, K Alden, LM Rose, J Timmis._
+(2016).
+Automated Multi-Objective Calibration of Biological Agent-Based Simulations.
+**Journal of the Royal Society Interface** 13(122):20160543.
+[[URL to paper at journal]](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0543)
 
-Leukocyte Motility Models Assessed through Simulation and Multi-Objective Optimization-Based Model Selection. Mark N. Read, Jacqueline Bailey, Jon Timmis and Tatyana Chtanova. PLOS Computational Biology 12(9):e1005082. doi:10.1371/journl.pcbi.1005082. [URL to paper at journal]
+_MN Read, J Bailey, J Timmis and T Chtanova._
+(2016).
+Leukocyte Motility Models Assessed through Simulation and Multi-Objective Optimization-Based Model Selection.
+**PLOS Computational Biology** 12(9):e1005082. doi:10.1371/journl.pcbi.1005082.
+[[URL to paper at journal]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005082)
 
-Statistical analysis of spatially homogeneous dynamic agent-based processes using functional time series analysis. Jack Hywood, Mark N. Read and Gregory Rice. Spatial Statistics 17:199-219. [URL to paper at journal].
+_J Hywood, MN Read and G Rice._
+(2016).
+Statistical analysis of spatially homogeneous dynamic agent-based processes using functional time series analysis.
+**Spatial Statistics** 17:199-219.
+[[URL to paper at journal]](https://www.sciencedirect.com/science/article/pii/S2211675316300264)
 
 ## 2015
 
-Agent-based modelling in systems pharmacology. Jason Cosgrove, James A. Butler, Kieran Alden, Mark Read, Vipin Kumar, Jon Timmis and Mark Coles. Accepted to CPT: Pharmacometrics & Systems Pharmacology 4(11):615–629, 2015. [URL to paper at journal]
+_J Cosgrove, JA Butler, K Alden, **M Read**, V Kumar, J Timmis, M Coles._
+(2015).
+Agent-based modelling in systems pharmacology.
+**CPT: Pharmacometrics & Systems Pharmacology** 4(11):615–629.
+[[URL to paper at journal]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12018)
 
-Simulation-based analysis of in situ cellular motility. Mark Read, Jon Timmis and Tatyana Chtanova. Abstract, Proceedings of the European Conference on Artificial Life, page 637, 2015.
+_**M Read**, J Timmis and T Chtanova._
+(2015).
+Simulation-based analysis of in situ cellular motility.
+Abstract, Proceedings of the European Conference on Artificial Life, page 637, 2015.
 
-Simulating the influence of diet on the intestinal microbiome composition. Mark Read, Andrew J. Holmes, Madison Hartill-Law, Samantha Solon-Biet, David Raubenheimer and Stephen J. Simpson. Abstract, Proceedings of the European Conference on Artificial Life, page 638, 2015.
+_**M Read**, AJ Holmes, M Hartill-Law, S Solon-Biet, D Raubenheimer and SJ Simpson._
+(2015).
+Simulating the influence of diet on the intestinal microbiome composition.
+Abstract, Proceedings of the European Conference on Artificial Life, page 638, 2015.
 
 ## 2014
 
@@ -120,7 +150,11 @@ Using UML to Model EAE and its Regulatory Network. Mark Read, Jon Timmis, Paul A
 
 ## 2008
 
-Empirical Investigation of an Artificial Cytokine Network. Mark Read, Jon Timmis and Paul Andrews. Proc. 7th International Conference on Artificial Immune Systems (ICARIS), LNCS 5132. pp. 340-351, 2008. [URL at Springer]
+_**M Read**, J Timmis and P Andrews._
+(2008).
+Empirical Investigation of an Artificial Cytokine Network.
+**Proc. 7th International Conference on Artificial Immune Systems** (ICARIS), LNCS 5132. pp. 340-351, 2008.
+[[URL at Springer]](https://link.springer.com/chapter/10.1007/978-3-540-85072-4_30)
 
 ## 2007
 
