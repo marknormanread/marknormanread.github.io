@@ -18,7 +18,7 @@ Dimensionality reduction for clustering and cluster tracking of cytometry data.
 **International Conference on Artificial Neural Networks** pp 624-640.
 [[URL at conference proceedings]](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_50)
 
-_GH Putri, **MN Read**, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King._
+_GH Putri, **MN Read**, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King._
 (2019).
 ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data.
 **Knowledge-Based Systems** 174:9-26.
