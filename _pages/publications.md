@@ -60,19 +60,19 @@ Diet-microbiome interactions in health are controlled by intestinal nitrogen sou
 
 ## 2016
 
-_MN Read, K Alden, LM Rose, J Timmis._
+_**MN Read**, K Alden, LM Rose, J Timmis._
 (2016).
 Automated Multi-Objective Calibration of Biological Agent-Based Simulations.
 **Journal of the Royal Society Interface** 13(122):20160543.
 [[URL to paper at journal]](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0543)
 
-_MN Read, J Bailey, J Timmis and T Chtanova._
+_**MN Read**, J Bailey, J Timmis and T Chtanova._
 (2016).
 Leukocyte Motility Models Assessed through Simulation and Multi-Objective Optimization-Based Model Selection.
 **PLOS Computational Biology** 12(9):e1005082. doi:10.1371/journl.pcbi.1005082.
 [[URL to paper at journal]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005082)
 
-_J Hywood, MN Read and G Rice._
+_J Hywood, **MN Read** and G Rice._
 (2016).
 Statistical analysis of spatially homogeneous dynamic agent-based processes using functional time series analysis.
 **Spatial Statistics** 17:199-219.
@@ -98,55 +98,131 @@ Abstract, Proceedings of the European Conference on Artificial Life, page 638, 2
 
 ## 2014
 
-Applying spartan to understanding uncertainty in simulations. Kieran Alden, Mark Read, Paul Andrews, Jon Timmis and Mark Coles. The R Journal 6(2):1-10. [URL to paper at R Journal]
+_K Alden, **M Read**, P Andrews, J Timmis and M Coles._
+(2014).
+Applying spartan to understanding uncertainty in simulations.
+**The R Journal** 6(2):1-10.
+[URL to paper at R Journal]
 
-Modelling biological behaviours with the unified modelling language: an immunological case study and critique. Mark Read, Paul S. Andrews, Jon Timmis and Vipin Kumar. Journal of the Royal Society Interface 11(9):20140704, 2014. [URL to paper on Royal Society Interface website]
+_**M Read**, PS Andrews, J Timmis, V Kumar._
+(2014).
+Modelling biological behaviours with the unified modelling language: an immunological case study and critique.
+**Journal of the Royal Society Interface** 11(9):20140704.
+[URL to paper on Royal Society Interface website]
 
-The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle. Becky Naylor, Mark Read, Alex Turner, Jon Timmis and Andy Tyrrell. Proceedings of Artificial Life (ALife), pages 290-297, 2014.
+_B Naylor, **M Read**, A Turner, J Timmis, A Tyrrell._
+(2014).
+The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.
+**Proceedings of Artificial Life (ALife)**, pages 290-297.
 
 ## 2013
 
-Scientific software needs quality control. Kieran Alden and Mark Read. Nature 502:448, 2013. This is an editor-reviewed correspondence, not a peer-reviewed article.
+_K Alden, **M Read**._
+(2013).
+Scientific software needs quality control.  
+**Nature** 502:448.
+**This is an editor-reviewed correspondence, not a peer-reviewed article.**
 
-Determining disease intervention strategies using spatially resolved simulations. Mark Read, Paul S. Andrews, Jon Timmis, Richard A. Williams, Richard B. Greaves, Huiming Sheng, Mark Coles and Vipin Kumar. PLOS ONE 8(11):e80506, 2013. [URL to paper at PLOS ONE]
-Automated calibration of agent-based immunological simulations. Mark Read, Magnus Tripp, Hannah, Leonova, Louis Rose and Jon Timmis. Abstract, published in ICARIS track at ECAL, MIT press, pages 874-875, 2013.
-On the Role of the AIS Practitioner. Emma Hart, Mark Read, Chris McEwan, Julie Greensmith and Uwe Aickelin. Abstract, published in ICARIS track at ECAL, MIT press, pages 891-892, 2013.
+_**M Read**, PS Andrews, J Timmis, RA Williams, RB Greaves, H Sheng, M Coles, V Kumar._
+(2013).
+Determining disease intervention strategies using spatially resolved simulations.
+**PLOS ONE** 8(11):e80506.
+[URL to paper at PLOS ONE]
 
-Profiling underwater swarm robotic shoaling performance using simulation. Mark Read, Christoph Moeslinger, Tobias Dipper, Daniela Kengyel, James Hilder, Ronald Thenius, Andy Tyrrell, Jon Timmis and Thomas Schmickl. In proceedings of Towards Autonomous Robotic Systems (TAROS), pages 404 – 416, 2013.
-Collective-Adaptive Levy Flight for Underwater Multi-Robot Exploration. Donny Sutantyo, Paul Levi, Christoph Moeslinger and Mark Read. In proceedings of IEEE Conference of Mechatronics and Automation, pages 456-462, 2013.
+_**M Read**, M Tripp, H Leonova, L Rose, J Timmis._
+(2013).
+Automated calibration of agent-based immunological simulations.
+Abstract, published in **ICARIS track at ECAL**, MIT press, pages 874-875.
 
-In silico investigation into dendritic cell regulation of CD8Treg mediated killing of Th1 cells within murine experimental autoimmune encephalomyelitis. Richard A. Williams, Richard Greaves, Mark Read, Jon Timmis, Paul S. Andrews and Vipin Kumar. BMC Bioinformatics 14(Suppl 6):S9, 2013. [URL to paper at BMC Bioinformatics]
+_E Hart, **M Read**, C McEwan, J Greensmith, U Aickelin_.
+(2013).
+On the Role of the AIS Practitioner.
+Abstract, published in **ICARIS track at ECAL**, MIT press, pages 891-892.
 
-In silico investigation of novel biological pathways: the role of CD200 in regulation of T cell priming in Experimental Autoimmune Encephalomyelitis. Richard B. Greaves, Mark Read, Jon Timmis, Paul S. Andrews, James Butler, Bjorn Gerckens and Vipin Kumar. Biosystems 112(2):107-121, 2013. [URL at Biosystems]
+_**M Read**, C Moeslinger, T Dipper, D Kengyel, J Hilder, R Thenius, A Tyrrell, J Timmis, T Schmickl_.
+(2013).
+Profiling underwater swarm robotic shoaling performance using simulation.
+**Proceedings of Towards Autonomous Robotic Systems** (TAROS), pages 404 – 416.
 
-Spartan: a comprehensive tool for understanding uncertainty in simulations of biological systems. Kieran Alden, Mark Read, Jon Timmis, Paul S. Andrews, Henrique Veiga-Fernandes and Mark Coles. PLoS Computational Biology 9(2), 2013. [URL to paper on PLoS]
+_D Sutantyo, P Levi, C Moeslinger, **M Read**._
+(2013).
+Collective-Adaptive Levy Flight for Underwater Multi-Robot Exploration. **Proceedings of IEEE Conference of Mechatronics and Automation**, pages 456-462.
+
+_RA Williams, R Greaves, **M Read**, J Timmis, PS Andrews, V Kumar._
+(2013).
+In silico investigation into dendritic cell regulation of CD8Treg mediated killing of Th1 cells within murine experimental autoimmune encephalomyelitis.
+**BMC Bioinformatics** 14(Suppl 6):S9.
+[URL to paper at BMC Bioinformatics]
+
+_RB Greaves, **M Read**, J Timmis, PS Andrews, J Butler, B Gerckens, V Kumar._
+(2013).
+In silico investigation of novel biological pathways: the role of CD200 in regulation of T cell priming in Experimental Autoimmune Encephalomyelitis.
+**Biosystems** 112(2):107-121.
+[URL at Biosystems]
+
+_K Alden, **M Read**, J Timmis, PS Andrews, H Veiga-Fernandes, M Coles._
+(2013).
+Spartan: a comprehensive tool for understanding uncertainty in simulations of biological systems.
+**PLoS Computational Biology** 9(2).
+[URL to paper on PLoS]
 
 ## 2012
 
-CD200 Regulation can Promote Recovery from Autoimmunity in Experimental Autoimmune Encephalomyelitis. Mark Read, James Butler, Björn-Ole Gerckens, Jon Timmis and Vipin Kumar. Abstract presented at ICARIS 2012.
+_**M Read**, J Butler, BO Gerckens, J Timmis, V Kumar._
+(2012).
+CD200 Regulation can Promote Recovery from Autoimmunity in Experimental Autoimmune Encephalomyelitis. 
+Abstract presented at **ICARIS 2012**.
 
-Extending an established simulation: exploration of the possible effects using a case study in experimental autoimmune encephalomyelitis. Richard B. Greaves, Mark Read, Jon Timmis, Paul S. Andrews, Vipin Kumar. Proceedings of the 9th International Conference on Information Processing in Cells and Tissues (IPCAT), LNCS 7223, pages 150-161, 2012.
+_RB Greaves, **M Read**, J Timmis, PS Andrews, V Kumar._
+(2012).
+Extending an established simulation: exploration of the possible effects using a case study in experimental autoimmune encephalomyelitis.
+**Proceedings of the 9th International Conference on Information Processing in Cells and Tissues** (IPCAT), LNCS 7223, pages 150-161.
 
-Techniques for Grounding Agent-Based Simulations in the Real Domain: a case study in Experimental Autoimmune Encephalomyelitis. Mark Read, Paul Andrews, Jon Timmis and Vipin Kumar. Mathematical and Computer Modelling of Dynamical Systems (MCMDS), 18(1):67-86, 2012.
+_**M Read**, P Andrews, J Timmis, V Kumar._
+(2012).
+Techniques for Grounding Agent-Based Simulations in the Real Domain: a case study in Experimental Autoimmune Encephalomyelitis.
+**Mathematical and Computer Modelling of Dynamical Systems** (MCMDS), 18(1):67-86.
 
-Statistical and Modelling Techniques to Build Confidence in the Investigation of Immunology through Agent-Based Simulation. Mark Read. PhD Thesis, University of York, 2012.
+_**M Read**._
+(2012).
+Statistical and Modelling Techniques to Build Confidence in the Investigation of Immunology through Agent-Based Simulation.
+**PhD Thesis**, University of York, 2012.
 
 ## 2011
 
-CoCoRo – The Self-aware Underwater Swarm. Thomas Schmickl, Ronald Thenius, Christoph Moslinger, Jon Timmis, Andy Tyrrell, Mark Read, James Hilder, Jose Halloy, Cesare Stefanini, Luigi Manfredi, Alexandre Campo, Tobias Dipper, Donny Sutantyo, Serge Kernbach. SASO 2011.
+_T Schmickl, R Thenius, C Moslinger, J Timmis, A Tyrrell, **M Read**, J Hilder, J Halloy, C Stefanini, L Manfredi, A Campo, T Dipper, D Sutantyo, S Kernbach._
+(2011).
+CoCoRo – The Self-aware Underwater Swarm.  
+**Proceedings of the Fifth IEEE Conference on Self-Adaptive and Self-Organizing Systems**.
 
-An Introduction to Artificial Immune Systems. Mark Read, Paul Andrews and Jon Timmis. The Handbook of Natural Computing, edited by Grzegorz Rozenberg, Thomas Bäck and Joost Kok. Published by Springer, 2011.
+_**M Read**, P Andrews, J Timmis_.
+(2011).
+An Introduction to Artificial Immune Systems.
+**The Handbook of Natural Computing**, edited by Grzegorz Rozenberg, Thomas Bäck and Joost Kok. Published by Springer.
 
-In Silico Investigation into CD8Treg Mediated Recovery in Murine Experimental Autoimmune Encephalomyelitis. Richard Williams, Mark Read, Jon Timmis, Paul Andrews and Vipin Kumar. Proceedings of ICARIS, LNCS volume 6825, pp 51-54, 2011.
+_R Williams, **M Read**, J Timmis, P Andrews, V Kumar._
+(2011).
+In Silico Investigation into CD8Treg Mediated Recovery in Murine Experimental Autoimmune Encephalomyelitis.
+**Proceedings of ICARIS**, LNCS volume 6825, pp 51-54.
 
 ## 2010
 
-Reflections on the Simulation of Complex Systems for Science. Fiona A. C. Polack, Paul Andrews, Teodor Ghetiu, Mark Read, Susan Stepney, Jon Timmis and Adam Sampson. IEEE ICECCS, pp:276-285, 2010.
+_FAC Polack, P Andrews, T Ghetiu, **M Read**, S Stepney, J Timmis, A Sampson._
+(2010).
+Reflections on the Simulation of Complex Systems for Science.
+**IEEE ICECCS**, pp:276-285.
 
 ## 2009
 
-A Domain Model of Experimental Autoimmune Encephalomyelitis. Mark Read, Jon Timmis, Paul Andrews and Vipin Kumar. 2nd Workshop on Complex Systems Modelling and Simulation.pp:9-44, 2009.
-Using UML to Model EAE and its Regulatory Network. Mark Read, Jon Timmis, Paul Andrews and Vipin Kumar. Proceedings of 8th International Conference on AIS. LNCS 5666, pp:4-6, 2009.
+_**M Read**, J Timmis, P Andrews, V Kumar._
+(2009).
+A Domain Model of Experimental Autoimmune Encephalomyelitis. 
+**2nd Workshop on Complex Systems Modelling and Simulation**, pp:9-44.
+
+_**M Read**, J Timmis, P Andrews, V Kumar._
+(2009)
+Using UML to Model EAE and its Regulatory Network.
+**Proceedings of 8th International Conference on Artificial Immune Systems**, LNCS 5666, pp:4-6.
 
 ## 2008
 
@@ -158,4 +234,7 @@ Empirical Investigation of an Artificial Cytokine Network.
 
 ## 2007
 
-Explicable Boolean Functions. Mark Read. Masters degree dissertation, undertaken at the University of York, under the supervision of Prof. John Clark.
+_**M Read**._
+(2007).
+Explicable Boolean Functions.
+**Masters degree dissertation**, University of York, under the supervision of Prof. John Clark.
