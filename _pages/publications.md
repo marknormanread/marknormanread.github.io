@@ -32,7 +32,7 @@ Engineering Simulations as Scientific Instruments: A Pattern Language.
 **Springer International Publishing.**
 [[URL to book at publisher]](https://www.springer.com/gp/book/9783030019372)
 
-_**MN Read, K Alden**, J Timmis and PS Andrews._
+_**MN Read**, K Alden, J Timmis and PS Andrews._
 (2018).
 Strategies for Calibrating Models of Biology.
 **Briefings in Bioinformatics** bby092.
