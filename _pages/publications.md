@@ -23,7 +23,7 @@ _GH Putri, **MN Read**, I Koprinska, D Singh, U Rohm, TM Ashhurst, NJC King._
 (2019).
 ChronoClust: Density-based clustering and cluster tracking in high-dimensional time-series data.
 **Knowledge-Based Systems** 174:9-26.
-[URL to paper at the journal](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796)
+[[URL to paper at the journal]](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300796)
 
 ## 2018
 
@@ -103,17 +103,17 @@ _K Alden, **M Read**, P Andrews, J Timmis and M Coles._
 (2014).
 Applying spartan to understanding uncertainty in simulations.
 **The R Journal** 6(2):1-10.
-[URL to paper at R Journal]
+[[URL to paper]](https://www.semanticscholar.org/paper/Applying-spartan-to-Understand-Parameter-in-Alden-Read/cd7fd4df812cae580840e1b056d43802b37685df)
 
 _**M Read**, PS Andrews, J Timmis, V Kumar._
 (2014).
 Modelling biological behaviours with the unified modelling language: an immunological case study and critique.
 **Journal of the Royal Society Interface** 11(9):20140704.
-[URL to paper on Royal Society Interface website]
+[[URL to paper]](https://royalsocietypublishing.org/doi/10.1098/rsif.2014.0704)
 
 _B Naylor, **M Read**, A Turner, J Timmis, A Tyrrell._
 (2014).
-The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.
+[The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.](pubs/Naylor_2014_RelayChain.pdf)
 **Proceedings of Artificial Life (ALife)**, pages 290-297.
 
 ## 2013
