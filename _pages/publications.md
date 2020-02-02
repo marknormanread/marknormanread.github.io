@@ -47,7 +47,7 @@ Memory B Cells Are Reactivated in Subcapsular Proliferative Foci of Lymph Nodes.
 
 ## 2017
 
-_**MN Read**, Andrew Holmes._
+_**MN Read**, A Holmes._
 (2017).
 Towards an integrative understanding of diet-host-gut microbiome interactions.
 **Frontiers in Immunology** 8:538.
