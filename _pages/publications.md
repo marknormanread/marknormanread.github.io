@@ -9,7 +9,7 @@ classes: wide
 
 _CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_.
 (2019).
-[Models of the Gut for Analyzing the Impact of Food and Drugs.](marknormanread.github.io/pubs/Fois_2019_ModelsGut.pdf)
+[Models of the Gut for Analyzing the Impact of Food and Drugs.](https://marknormanread.github.io/pubs/Fois_2019_ModelsGut.pdf)
 **Advanced Healthcare Materials** 8(21):1900968.
 [[URL at journal]](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201900968).
 
