@@ -9,7 +9,7 @@ classes: wide
 
 _CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_.
 (2019).
-[Models of the Gut for Analyzing the Impact of Food and Drugs.](pubs/Fois_2019_ModelsGut.pdf)
+[Models of the Gut for Analyzing the Impact of Food and Drugs.](marknormanread.github.io/pubs/Fois_2019_ModelsGut.pdf)
 **Advanced Healthcare Materials** 8(21):1900968.
 [[URL at journal]](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201900968).
 
@@ -113,7 +113,7 @@ Modelling biological behaviours with the unified modelling language: an immunolo
 
 _B Naylor, **M Read**, A Turner, J Timmis, A Tyrrell._
 (2014).
-[The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.](pubs/Naylor_2014_RelayChain.pdf)
+[The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.](marknormanread.github.io/pubs/Naylor_2014_RelayChain.pdf)
 **Proceedings of Artificial Life (ALife)**, pages 290-297.
 
 ## 2013
@@ -128,7 +128,7 @@ _**M Read**, PS Andrews, J Timmis, RA Williams, RB Greaves, H Sheng, M Coles, V 
 (2013).
 Determining disease intervention strategies using spatially resolved simulations.
 **PLOS ONE** 8(11):e80506.
-[URL to paper at PLOS ONE]
+[[URL to paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080506)
 
 _**M Read**, M Tripp, H Leonova, L Rose, J Timmis._
 (2013).
@@ -147,25 +147,26 @@ Profiling underwater swarm robotic shoaling performance using simulation.
 
 _D Sutantyo, P Levi, C Moeslinger, **M Read**._
 (2013).
-Collective-Adaptive Levy Flight for Underwater Multi-Robot Exploration. **Proceedings of IEEE Conference of Mechatronics and Automation**, pages 456-462.
+Collective-Adaptive Levy Flight for Underwater Multi-Robot Exploration. 
+**Proceedings of IEEE Conference of Mechatronics and Automation**, pages 456-462.
 
 _RA Williams, R Greaves, **M Read**, J Timmis, PS Andrews, V Kumar._
 (2013).
 In silico investigation into dendritic cell regulation of CD8Treg mediated killing of Th1 cells within murine experimental autoimmune encephalomyelitis.
 **BMC Bioinformatics** 14(Suppl 6):S9.
-[URL to paper at BMC Bioinformatics]
+[[URL to paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S6-S9)
 
 _RB Greaves, **M Read**, J Timmis, PS Andrews, J Butler, B Gerckens, V Kumar._
 (2013).
 In silico investigation of novel biological pathways: the role of CD200 in regulation of T cell priming in Experimental Autoimmune Encephalomyelitis.
 **Biosystems** 112(2):107-121.
-[URL at Biosystems]
+[[URL at Biosystems]](https://doi.org/10.1016/j.biosystems.2013.03.007)
 
 _K Alden, **M Read**, J Timmis, PS Andrews, H Veiga-Fernandes, M Coles._
 (2013).
-Spartan: a comprehensive tool for understanding uncertainty in simulations of biological systems.
+[Spartan: a comprehensive tool for understanding uncertainty in simulations of biological systems.](marknormanread.github.io/pubs/Alden_2013_Spartan.pdf)
 **PLoS Computational Biology** 9(2).
-[URL to paper on PLoS]
+[[URL to paper]](https://doi.org/10.1371/journal.pcbi.1002916)
 
 ## 2012
 
