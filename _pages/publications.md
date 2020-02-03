@@ -9,7 +9,7 @@ classes: wide
 
 _CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_.
 (2019).
-[Models of the Gut for Analyzing the Impact of Food and Drugs.](/Fois_2019_ModelsGut.pdf)
+[Models of the Gut for Analyzing the Impact of Food and Drugs.](/pubs/Fois_2019_ModelsGut.pdf)
 **Advanced Healthcare Materials** 8(21):1900968.
 [[URL at journal]](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.201900968).
 
@@ -113,7 +113,7 @@ Modelling biological behaviours with the unified modelling language: an immunolo
 
 _B Naylor, **M Read**, A Turner, J Timmis, A Tyrrell._
 (2014).
-[The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.](/Naylor_2014_RelayChain.pdf)
+[The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.](/pubs/Naylor_2014_RelayChain.pdf)
 **Proceedings of Artificial Life (ALife)**, pages 290-297.
 
 ## 2013
@@ -164,7 +164,7 @@ In silico investigation of novel biological pathways: the role of CD200 in regul
 
 _K Alden, **M Read**, J Timmis, PS Andrews, H Veiga-Fernandes, M Coles._
 (2013).
-[Spartan: a comprehensive tool for understanding uncertainty in simulations of biological systems.](/Alden_2013_Spartan.pdf)
+[Spartan: a comprehensive tool for understanding uncertainty in simulations of biological systems.](/pubs/Alden_2013_Spartan.pdf)
 **PLoS Computational Biology** 9(2).
 [[URL to paper]](https://doi.org/10.1371/journal.pcbi.1002916)
 
