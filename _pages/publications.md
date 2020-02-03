@@ -113,7 +113,7 @@ Modelling biological behaviours with the unified modelling language: an immunolo
 
 _B Naylor, **M Read**, A Turner, J Timmis, A Tyrrell._
 (2014).
-[The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.](marknormanread.github.io/pubs/Naylor_2014_RelayChain.pdf)
+[The Relay Chain: A Scalable Dynamic Communication link between an Exploratory Underwater Shoal and a Surface Vehicle.](/Naylor_2014_RelayChain.pdf)
 **Proceedings of Artificial Life (ALife)**, pages 290-297.
 
 ## 2013
