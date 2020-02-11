@@ -36,7 +36,7 @@ Engineering Simulations as Scientific Instruments: A Pattern Language.
 _**MN Read**, K Alden, J Timmis and PS Andrews._
 (2018).
 Strategies for Calibrating Models of Biology.
-**Briefings in Bioinformatics** bby092.
+**Briefings in Bioinformatics** 21(1):24–35.
 [[URL to paper at journal]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bby092/5099477)
 
 _I Moran, A Nguyen, W Khoo, D Butt, K Bourne, C Young, J Hermes, M Biro, G Gracie, C Ma, C Munier, F Luciani, J Zaunders, A Parker, A Kelleher, S Tangye, P Croucher, R Brink, **MN Read**, T Phan._
