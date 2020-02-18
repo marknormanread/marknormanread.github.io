@@ -97,7 +97,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marknormanread"
     - label: "ORCiD"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0002-1481-4780"
       
 #     - label: "Google Scholar Profile"
