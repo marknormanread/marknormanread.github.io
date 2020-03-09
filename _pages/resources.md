@@ -9,7 +9,8 @@ My [google scholar profile.](https://scholar.google.co.uk/citations?user=WfvA3zI
 
 ## GutSim
 
-My simulation of gut microbial community response to diet was featured in Andrew Holmes’s 2017 Cell Metabolism paper. This will also be released once the main manuscript describing the simulation work is published; I anticipate this to be mid-2017.
+My simulation of gut microbial community response to diet was featured in Andrew Holmes’s 2017 Cell Metabolism paper.
+The main manuscript describing the simulation work is in final draft, with submission anticipated very soon. 
 
 ## 3D Leukocyte Motility Simulator
 
