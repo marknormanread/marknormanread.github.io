@@ -3,6 +3,8 @@ permalink: /resources/
 title: "Resources"
 ---
 
+[I am still updating this page after moving my website hosting to github pages, many links are currently missing]
+
 This page contains links to software, tools, or websites relating to my work.
 
 My [google scholar profile.](https://scholar.google.co.uk/citations?user=WfvA3zIAAAAJ&hl=en&authuser=1)
