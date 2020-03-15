@@ -11,6 +11,8 @@ Dr Read was awarded my PhD in 2012 by the University of York, UK, for work advan
 
 ## Wisdom
 
+"All discoveries, all great achievements, have been made by men whodelighted in their work." - Sawyer 1943. Found this in a book making the case that there's no excuse for bad teaching. 
+
 “An expert is a man who has made all the mistakes which can be made.” – Niels Bohr
 
 “If we knew what it was we were doing, it wouldn’t be called ‘research’, would it?” – Albert Einstein
