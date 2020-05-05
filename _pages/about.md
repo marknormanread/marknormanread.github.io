@@ -11,6 +11,9 @@ Dr Read was awarded my PhD in 2012 by the University of York, UK, for work advan
 
 ## Wisdom
 
+“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and
+they've already taken over the world.” —Pedro Domingos
+
 "All discoveries, all great achievements, have been made by men who delighted in their work." - Sawyer 1943. Found this in a book making the case that there's no excuse for bad teaching. 
 
 “An expert is a man who has made all the mistakes which can be made.” – Niels Bohr
