@@ -9,7 +9,8 @@ classes: wide
 _J Zoll+, **MN Read+**, S Heywood, E Estevez, J Marshall, H Kammoun, T Allen, A Holmes, M Febbraio, and D Henstridge_ 
 (2020).
 Fecal microbiota transplantation from high caloric-fed donors alters glucose metabolism in recipient mice, independently of adiposity or exercise status.
-**American Journal of Physiology-Endocrinology and Metabolism**, Accepted for publication. + equal-first authors.
+**American Journal of Physiology-Endocrinology and Metabolism**, In print. + equal-first authors.
+[[URL at journal]](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00037.2020)
  
 ## 2019
 
