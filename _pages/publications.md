@@ -6,14 +6,14 @@ classes: wide
 
 ## 2020
 
-_G Rangan , A Raghubanshi , A Chaitarvornkit , AN Chandra , R Gardos , A Munt , **MN Read** , S Saravanabavan , JQJ Zhang & ATY Wong_
+_G Rangan , A Raghubanshi , A Chaitarvornkit , AN Chandra , R Gardos , A Munt , **MN Read** , S Saravanabavan , JQJ Zhang and ATY Wong_
 (2020).
 Current and emerging treatment options to prevent renal failure due to autosomal dominant polycystic kidney disease.
 **Expert Opinion on Orphan Drugs**, In print.
 [[URL at journal]](https://www.tandfonline.com/doi/full/10.1080/21678707.2020.1804859)
 
 
-_J Zoll+, **MN Read+**, S Heywood, E Estevez, J Marshall, H Kammoun, T Allen, A Holmes, M Febbraio, and D Henstridge_ 
+_J Zoll+, **MN Read+**, S Heywood, E Estevez, J Marshall, H Kammoun, T Allen, A Holmes, M Febbraio and D Henstridge_ 
 (2020).
 Fecal microbiota transplantation from high caloric-fed donors alters glucose metabolism in recipient mice, independently of adiposity or exercise status.
 **American Journal of Physiology-Endocrinology and Metabolism**, In print. + equal-first authors.
@@ -21,7 +21,7 @@ Fecal microbiota transplantation from high caloric-fed donors alters glucose met
  
 ## 2019
 
-_CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_.
+_CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini and F Dehghani_.
 (2019).
 [Models of the Gut for Analyzing the Impact of Food and Drugs.](/pubs/Fois_2019_ModelsGut.pdf)
 **Advanced Healthcare Materials** 8(21):1900968.
@@ -95,7 +95,7 @@ Statistical analysis of spatially homogeneous dynamic agent-based processes usin
 
 ## 2015
 
-_J Cosgrove, JA Butler, K Alden, **M Read**, V Kumar, J Timmis, M Coles._
+_J Cosgrove, JA Butler, K Alden, **M Read**, V Kumar, J Timmis and M Coles._
 (2015).
 Agent-based modelling in systems pharmacology.
 **CPT: Pharmacometrics & Systems Pharmacology** 4(11):615–629.
