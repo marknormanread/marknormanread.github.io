@@ -6,16 +6,21 @@ classes: wide
 
 ## 2020
 
-_G Rangan , A Raghubanshi , A Chaitarvornkit , AN Chandra , R Gardos , A Munt , **MN Read** , S Saravanabavan , JQJ Zhang and ATY Wong_
+_JLG N, SV Pageon, SS Tay, F Colakoglu, D Kempe, J Hywood, JK Mazalo, J Cremasco, M Govendir, LF Dagley, K Hsu, S Rizzetto, J Zieba, G Rice, V Prior, G O’Neill, RJ Williams, DR Nisbet, B Kramer, AI Webb, F Luciani, **MN Read**, and M Biro._
+(2020).
+Cytotoxic T Cells Swarm by Homotypic Chemokine Signalling
+**eLife**, in print.
+
+_GK Rangan , A Raghubanshi , A Chaitarvornkit , AN Chandra , R Gardos , A Munt , **MN Read** , S Saravanabavan , JQJ Zhang, and ATY Wong_
 (2020).
 Current and emerging treatment options to prevent renal failure due to autosomal dominant polycystic kidney disease.
-**Expert Opinion on Orphan Drugs**, In print.
+**Expert Opinion on Orphan Drugs** 8(8):285-302.
 [[URL at journal]](https://www.tandfonline.com/doi/full/10.1080/21678707.2020.1804859)
 
-_J Zoll+, **MN Read+**, S Heywood, E Estevez, J Marshall, H Kammoun, T Allen, A Holmes, M Febbraio and D Henstridge_ 
+_J Zoll+, **MN Read+**, S Heywood, E Estevez, J Marshall, H Kammoun, T Allen, A Holmes, M Febbraio, and D Henstridge_ 
 (2020).
 Fecal microbiota transplantation from high caloric-fed donors alters glucose metabolism in recipient mice, independently of adiposity or exercise status.
-**American Journal of Physiology-Endocrinology and Metabolism**, In print. + equal-first authors.
+**American Journal of Physiology-Endocrinology and Metabolism** 319(1):E203-216. + equal-first authors.
 [[URL at journal]](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00037.2020)
 
 _**MN Read**, K Alden, J Timmis and PS Andrews._
