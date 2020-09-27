@@ -8,7 +8,7 @@ classes: wide
 
 _JLG N, SV Pageon, SS Tay, F Colakoglu, D Kempe, J Hywood, JK Mazalo, J Cremasco, M Govendir, LF Dagley, K Hsu, S Rizzetto, J Zieba, G Rice, V Prior, G O’Neill, RJ Williams, DR Nisbet, B Kramer, AI Webb, F Luciani, **MN Read**, and M Biro._
 (2020).
-Cytotoxic T Cells Swarm by Homotypic Chemokine Signalling
+Cytotoxic T Cells Swarm by Homotypic Chemokine Signalling.
 **eLife**, in print.
 
 _GK Rangan , A Raghubanshi , A Chaitarvornkit , AN Chandra , R Gardos , A Munt , **MN Read** , S Saravanabavan , JQJ Zhang, and ATY Wong_
