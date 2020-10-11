@@ -143,7 +143,7 @@ _B Naylor, **M Read**, A Turner, J Timmis, A Tyrrell._
 
 _K Alden, **M Read**._
 (2013).
-Scientific software needs quality control.  
+Scientific software needs quality control. 
 **Nature** 502:448.
 **This is an editor-reviewed correspondence, not a peer-reviewed article.**
 
