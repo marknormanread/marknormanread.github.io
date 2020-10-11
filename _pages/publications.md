@@ -6,7 +6,12 @@ classes: wide
 
 ## 2020
 
-_JLG N, SV Pageon, SS Tay, F Colakoglu, D Kempe, J Hywood, JK Mazalo, J Cremasco, M Govendir, LF Dagley, K Hsu, S Rizzetto, J Zieba, G Rice, V Prior, G O’Neill, RJ Williams, DR Nisbet, B Kramer, AI Webb, F Luciani, **MN Read**, and M Biro._
+_N Lamm, **MN Read**, M Nobis, D Van Ly, SG Page, VP Masamsetti, P Timpson, M Biro, and AJ Cesare._
+(2020).
+ATR and mTOR regulate nuclear actin polymerization to alter nuclear architecture and promote replication stress repair. 
+**Nature Cell Biology**, in print. 
+
+_JLG Nino, SV Pageon, SS Tay, F Colakoglu, D Kempe, J Hywood, JK Mazalo, J Cremasco, M Govendir, LF Dagley, K Hsu, S Rizzetto, J Zieba, G Rice, V Prior, G O’Neill, RJ Williams, DR Nisbet, B Kramer, AI Webb, F Luciani, **MN Read**, and M Biro._
 (2020).
 Cytotoxic T Cells Swarm by Homotypic Chemokine Signalling.
 **eLife**, in print.
