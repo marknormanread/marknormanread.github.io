@@ -4,6 +4,13 @@ title: "Publications"
 classes: wide
 ---
 
+## 2021
+
+_GH Putri, I Koprinska, TM Ashhurst, NJC King, **MN Read**._
+(2021).
+Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts.
+**Bioinformatics**, in press.
+
 ## 2020
 
 _N Lamm, **MN Read**, M Nobis, D Van Ly, SG Page, VP Masamsetti, P Timpson, M Biro, and AJ Cesare._
