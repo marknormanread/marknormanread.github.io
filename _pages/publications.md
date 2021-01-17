@@ -16,12 +16,12 @@ Using single-cell cytometry to illustrate integrated multi-perspective evaluatio
 _N Lamm, **MN Read**, M Nobis, D Van Ly, SG Page, VP Masamsetti, P Timpson, M Biro, and AJ Cesare._
 (2020).
 ATR and mTOR regulate nuclear actin polymerization to alter nuclear architecture and promote replication stress repair. 
-**Nature Cell Biology**, in print. [[URL at journal]](https://www.nature.com/articles/s41556-020-00605-6)
+**Nature Cell Biology** 22(12):1460-1470. [[URL at journal]](https://www.nature.com/articles/s41556-020-00605-6)
 
 _JLG Nino, SV Pageon, SS Tay, F Colakoglu, D Kempe, J Hywood, JK Mazalo, J Cremasco, M Govendir, LF Dagley, K Hsu, S Rizzetto, J Zieba, G Rice, V Prior, G O’Neill, RJ Williams, DR Nisbet, B Kramer, AI Webb, F Luciani, **MN Read**, and M Biro._
 (2020).
 Cytotoxic T Cells Swarm by Homotypic Chemokine Signalling.
-**eLife**, in print. [[URL at journal]](https://elifesciences.org/articles/56554)
+**eLife** 9:e56554. [[URL at journal]](https://elifesciences.org/articles/56554)
 
 _GK Rangan , A Raghubanshi , A Chaitarvornkit , AN Chandra , R Gardos , A Munt , **MN Read** , S Saravanabavan , JQJ Zhang, and ATY Wong_
 (2020).
