@@ -6,15 +6,21 @@ classes: wide
 
 ## 2021
 
+_GH Putri, I Koprinska, TM Ashhurst, NJC King, **MN Read**._
+(2021).
+Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts.
+**Bioinformatics** :btab038.
+[[URL at journal]](https://doi.org/10.1093/bioinformatics/btab038)
+
+_JD Hywood, G Rice, SV Pageon, **MN Read**, M Biro._
+(2021).
+Detection and characterisation of chemotactic swarming without cell tracking.
+**Journal of the Royal Society Interface**, in press. 
+
 _M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel1, W Zhang, X Jia, L Kedzierski, TM Ashhurst, GH Putri, F Marsh-Wakefield, **MN Read**, DN Edwards, EB Clemens, C Yi Wong, FL Mordant, JA Juno, F Amanat, J Audsley, NE Holmes, CL Gordon, OC Smibert, JA Trubiano, CM Hughes, M Catton, JT Denholm, SYC Tong, DL Doolan, TC Kotsimbos, DC Jackson, F Krammer, DI Godfrey, AW Chung, NJC King, SR Lewin, AK Wheatley, SJ Kent, K Subbarao, J McMahon, I Thevarajan, THO Nguyen, AC Cheng and K Kedzierska._
 (2021).
 Integrated immune dynamics define correlates of COVID-19 severity and antibody responses.
 **Cell Reports Medicine**, in press.  
-
-_GH Putri, I Koprinska, TM Ashhurst, NJC King, **MN Read**._
-(2021).
-Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts.
-**Bioinformatics**, in press.
 
 ## 2020
 
