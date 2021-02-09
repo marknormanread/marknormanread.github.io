@@ -24,6 +24,12 @@ Integrated immune dynamics define correlates of COVID-19 severity and antibody r
 
 ## 2020
 
+_**MN Read**, K Alden, J Timmis and PS Andrews._
+(2020).
+Strategies for Calibrating Models of Biology.
+**Briefings in Bioinformatics** 21(1):24–35.
+[[URL to paper at journal]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bby092/5099477)
+
 _N Lamm, **MN Read**, M Nobis, D Van Ly, SG Page, VP Masamsetti, P Timpson, M Biro, and AJ Cesare._
 (2020).
 Nuclear F-actin counteracts nuclear deformation and promotes fork repair during replication stress.
@@ -46,11 +52,6 @@ Fecal microbiota transplantation from high caloric-fed donors alters glucose met
 **American Journal of Physiology-Endocrinology and Metabolism** 319(1):E203-216. + equal-first authors.
 [[URL at journal]](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00037.2020)
 
-_**MN Read**, K Alden, J Timmis and PS Andrews._
-(2020).
-Strategies for Calibrating Models of Biology.
-**Briefings in Bioinformatics** 21(1):24–35.
-[[URL to paper at journal]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bby092/5099477)
 
 ## 2019
 
