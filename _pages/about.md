@@ -15,7 +15,7 @@ I then moved to the University of Sydney's Charles Perkins Centre in 2013 as an 
 
 ## CV
 
-You can find a (relatively) [[recent version of my CV here]](marknormanread.github.io/pubs/MarkRead_CV.pdf). This is an academic CV (not a resume) - it is a relatively full listing of my academic activities. 
+You can find a (relatively) [recent version of my CV here](http://marknormanread.github.io/pubs/MarkRead_CV.pdf). This is an academic CV (not a resume) - it is a relatively full listing of my academic activities. 
 
 ## Wisdom
 
