@@ -13,6 +13,10 @@ I was awarded my PhD in 2012 by the University of York, UK, for work advancing t
 I had a brief foray into swarm robotics whilst at York. 
 I then moved to the University of Sydney's Charles Perkins Centre in 2013 as an independent researcher, and joined the Centre for Food Enginomics in 2018 before my appointment as Lecturer in 2019.
 
+## CV
+
+You can find a (relatively) [[recent version of my CV here]](marknormanread.github.io/pubs/MarkRead_CV.pdf). This is an academic CV (not a resume) - it is a relatively full listing of my academic activities. 
+
 ## Wisdom
 
 “People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.” - Pedro Domingos
