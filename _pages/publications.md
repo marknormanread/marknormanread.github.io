@@ -4,17 +4,60 @@ title: "Publications"
 classes: wide
 ---
 
+## 2021
+
+_GH Putri, I Koprinska, TM Ashhurst, NJC King, **MN Read**._
+(2021).
+Using single-cell cytometry to illustrate integrated multi-perspective evaluation of clustering algorithms using Pareto fronts.
+**Bioinformatics** :btab038.
+[[URL at journal]](https://doi.org/10.1093/bioinformatics/btab038)
+
+_JD Hywood, G Rice, SV Pageon, **MN Read**, M Biro._
+(2021).
+Detection and characterisation of chemotactic swarming without cell tracking.
+**Journal of the Royal Society Interface** 18(176):20200879. 
+[[URL at journal]](https://doi.org/10.1098/rsif.2020.0879)
+
+_M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel1, W Zhang, X Jia, L Kedzierski, TM Ashhurst, GH Putri, F Marsh-Wakefield, **MN Read**, DN Edwards, EB Clemens, C Yi Wong, FL Mordant, JA Juno, F Amanat, J Audsley, NE Holmes, CL Gordon, OC Smibert, JA Trubiano, CM Hughes, M Catton, JT Denholm, SYC Tong, DL Doolan, TC Kotsimbos, DC Jackson, F Krammer, DI Godfrey, AW Chung, NJC King, SR Lewin, AK Wheatley, SJ Kent, K Subbarao, J McMahon, I Thevarajan, THO Nguyen, AC Cheng and K Kedzierska._
+(2021).
+Integrated immune dynamics define correlates of COVID-19 severity and antibody responses.
+**Cell Reports Medicine** 2:100208. 
+[[URL at journal]](https://doi.org/10.1016/j.xcrm.2021.100208)
+
 ## 2020
+
+_**MN Read**, K Alden, J Timmis and PS Andrews._
+(2020).
+Strategies for Calibrating Models of Biology.
+**Briefings in Bioinformatics** 21(1):24–35.
+[[URL to paper at journal]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bby092/5099477)
+
+_N Lamm, **MN Read**, M Nobis, D Van Ly, SG Page, VP Masamsetti, P Timpson, M Biro, and AJ Cesare._
+(2020).
+Nuclear F-actin counteracts nuclear deformation and promotes fork repair during replication stress.
+**Nature Cell Biology** 22(12):1460-1470. [[URL at journal]](https://www.nature.com/articles/s41556-020-00605-6)
+
+_JLG Nino, SV Pageon, SS Tay, F Colakoglu, D Kempe, J Hywood, JK Mazalo, J Cremasco, M Govendir, LF Dagley, K Hsu, S Rizzetto, J Zieba, G Rice, V Prior, G O’Neill, RJ Williams, DR Nisbet, B Kramer, AI Webb, F Luciani, **MN Read**, and M Biro._
+(2020).
+Cytotoxic T Cells Swarm by Homotypic Chemokine Signalling.
+**eLife** 9:e56554. [[URL at journal]](https://elifesciences.org/articles/56554)
+
+_GK Rangan , A Raghubanshi , A Chaitarvornkit , AN Chandra , R Gardos , A Munt , **MN Read** , S Saravanabavan , JQJ Zhang, and ATY Wong_
+(2020).
+Current and emerging treatment options to prevent renal failure due to autosomal dominant polycystic kidney disease.
+**Expert Opinion on Orphan Drugs** 8(8):285-302.
+[[URL at journal]](https://www.tandfonline.com/doi/full/10.1080/21678707.2020.1804859)
 
 _J Zoll+, **MN Read+**, S Heywood, E Estevez, J Marshall, H Kammoun, T Allen, A Holmes, M Febbraio, and D Henstridge_ 
 (2020).
 Fecal microbiota transplantation from high caloric-fed donors alters glucose metabolism in recipient mice, independently of adiposity or exercise status.
-**American Journal of Physiology-Endocrinology and Metabolism**, In print. + equal-first authors.
+**American Journal of Physiology-Endocrinology and Metabolism** 319(1):E203-216. + equal-first authors.
 [[URL at journal]](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00037.2020)
- 
+
+
 ## 2019
 
-_CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini, F Dehghani_.
+_CAM Fois, TYL Le, A Schindeler, S Naficy, DD McClure, **MN Read**, P Valtchev, A Khademhosseini and F Dehghani_.
 (2019).
 [Models of the Gut for Analyzing the Impact of Food and Drugs.](/pubs/Fois_2019_ModelsGut.pdf)
 **Advanced Healthcare Materials** 8(21):1900968.
@@ -39,12 +82,6 @@ _S Stepney, FAC Polack, K Alden, PS Andrews, JL Bown, A Droop, **MN Read**, AT S
 Engineering Simulations as Scientific Instruments: A Pattern Language.
 **Springer International Publishing.**
 [[URL to book at publisher]](https://www.springer.com/gp/book/9783030019372)
-
-_**MN Read**, K Alden, J Timmis and PS Andrews._
-(2018).
-Strategies for Calibrating Models of Biology.
-**Briefings in Bioinformatics** 21(1):24–35.
-[[URL to paper at journal]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bby092/5099477)
 
 _I Moran, A Nguyen, W Khoo, D Butt, K Bourne, C Young, J Hermes, M Biro, G Gracie, C Ma, C Munier, F Luciani, J Zaunders, A Parker, A Kelleher, S Tangye, P Croucher, R Brink, **MN Read**, T Phan._
 (2018).
@@ -88,7 +125,7 @@ Statistical analysis of spatially homogeneous dynamic agent-based processes usin
 
 ## 2015
 
-_J Cosgrove, JA Butler, K Alden, **M Read**, V Kumar, J Timmis, M Coles._
+_J Cosgrove, JA Butler, K Alden, **M Read**, V Kumar, J Timmis and M Coles._
 (2015).
 Agent-based modelling in systems pharmacology.
 **CPT: Pharmacometrics & Systems Pharmacology** 4(11):615–629.
@@ -127,7 +164,7 @@ _B Naylor, **M Read**, A Turner, J Timmis, A Tyrrell._
 
 _K Alden, **M Read**._
 (2013).
-Scientific software needs quality control.  
+Scientific software needs quality control. 
 **Nature** 502:448.
 **This is an editor-reviewed correspondence, not a peer-reviewed article.**
 
