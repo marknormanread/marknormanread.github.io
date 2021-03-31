@@ -1,5 +1,5 @@
 ---
-title: "Paper published! Gut microbes don't confer benefits of exercise in protecting against poor diet."
+title: "Immune Dynamics website is live!"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
