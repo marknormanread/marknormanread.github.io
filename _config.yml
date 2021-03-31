@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Dr. Mark N. Read"
   avatar : "/assets/images/MarkRead_small.JPG"
-  bio    : "We conduct research at the interface of Computer Science and Biomedicine at the University of Sydney. Algorithms, simulations, machine learning, gut microbial ecology, immunology and healthcare. Research is endless exciting possibilities."
+  bio    : "My lab conducts research at the interface of Computer Science and Biomedicine at the University of Sydney. Algorithms, simulations, machine learning, gut microbial ecology, immunology and healthcare. Research is endless exciting possibilities."
   links:
     - label: "USyd Website"
       icon: "fas fa-fw fa-link"
