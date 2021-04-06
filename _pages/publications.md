@@ -18,6 +18,12 @@ Detection and characterisation of chemotactic swarming without cell tracking.
 **Journal of the Royal Society Interface** 18(176):20200879. 
 [[URL at journal]](https://doi.org/10.1098/rsif.2020.0879)
 
+_T Ashhurst+, F Marsh-Wakefield+, G Putri+, A Spiteri, D Shinko, **MN Read**, A Smith, NJC King._
+(2021).
+Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre.
+**Cytometry: Part A**, in press. 
++ equal contribution. 
+
 _M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel1, W Zhang, X Jia, L Kedzierski, TM Ashhurst, GH Putri, F Marsh-Wakefield, **MN Read**, DN Edwards, EB Clemens, C Yi Wong, FL Mordant, JA Juno, F Amanat, J Audsley, NE Holmes, CL Gordon, OC Smibert, JA Trubiano, CM Hughes, M Catton, JT Denholm, SYC Tong, DL Doolan, TC Kotsimbos, DC Jackson, F Krammer, DI Godfrey, AW Chung, NJC King, SR Lewin, AK Wheatley, SJ Kent, K Subbarao, J McMahon, I Thevarajan, THO Nguyen, AC Cheng and K Kedzierska._
 (2021).
 Integrated immune dynamics define correlates of COVID-19 severity and antibody responses.
