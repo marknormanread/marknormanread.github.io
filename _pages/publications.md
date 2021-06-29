@@ -24,6 +24,11 @@ Integration, exploration, and analysis of high-dimensional single-cell cytometry
 **Cytometry: Part A**, 1:17. + equal contribution. 
 [[URL at journal]](https://doi.org/10.1002/cyto.a.24350)
 
+_J Tan+, D Ni+, JA Wali, DA Cox, GV Pinget, J Taitz, CI Daien, A Senior, MN Read, SJ Simpson, NJC King+, and L Macia+._
+(2021).
+Dietary carbohydrate, particularly glucose, drives B cell lymphopoiesis and function.
+**iScience**, accepted for publication. + equal first/senior contributions.
+
 _M Koutsakos, LC Rowntree, L Hensen, BY Chua, CE van de Sandt, JR Habel1, W Zhang, X Jia, L Kedzierski, TM Ashhurst, GH Putri, F Marsh-Wakefield, **MN Read**, DN Edwards, EB Clemens, C Yi Wong, FL Mordant, JA Juno, F Amanat, J Audsley, NE Holmes, CL Gordon, OC Smibert, JA Trubiano, CM Hughes, M Catton, JT Denholm, SYC Tong, DL Doolan, TC Kotsimbos, DC Jackson, F Krammer, DI Godfrey, AW Chung, NJC King, SR Lewin, AK Wheatley, SJ Kent, K Subbarao, J McMahon, I Thevarajan, THO Nguyen, AC Cheng and K Kedzierska._
 (2021).
 Integrated immune dynamics define correlates of COVID-19 severity and antibody responses.
